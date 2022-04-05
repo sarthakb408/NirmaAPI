@@ -21,7 +21,7 @@ await terminalService.CreateTerminal(terminalRequest));
 app.MapPut("/terminals/{id}", async (int id, TerminalRequest terminalRequest, ITerminalService terminalService) =>
 await terminalService.UpdateTerminal(id, terminalRequest));
 
-app.MapDelete("/articles/{id}", async (int id, ITerminalService terminalService) =>
+app.MapDelete("/terminals/{id}", async (int id, ITerminalService terminalService) =>
 await terminalService.DeleteTerminal(id));
 
 app.Run();

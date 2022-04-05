@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\TerminalDetails\\TerminalDetails.csproj",
+      "projectUniqueName": "D:\\.NET\\NirmaAPI\\TerminalDetails\\TerminalDetails.csproj",
       "projectName": "TerminalDetails",
-      "projectPath": "D:\\.NET\\TerminalDetails\\TerminalDetails.csproj",
+      "projectPath": "D:\\.NET\\NirmaAPI\\TerminalDetails\\TerminalDetails.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\TerminalDetails\\obj\\",
+      "outputPath": "D:\\.NET\\NirmaAPI\\TerminalDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
